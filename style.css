@@ -1,4 +1,8 @@
+#page-wrap {
+     width: 800px;
+     margin: 0 auto;
+}
 .container {
   font-family: Palatino, serif;
-  font-color: red;
+  font-color: green, orange;
 }
