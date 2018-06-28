@@ -2,3 +2,7 @@
   font-family: Palatino, serif;
   color: green, orange;
 }
+.wrap {
+  width: 900px;
+  margin: 0 auto;
+}
