@@ -1,8 +1,8 @@
-.container {
+body {
   font-family: Palatino, serif;
   color: green, orange;
 }
-.wrap {
+#wrap {
   width: 900px;
   margin: 0 auto;
 }
