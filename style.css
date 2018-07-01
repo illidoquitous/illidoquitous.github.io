@@ -50,5 +50,20 @@ text-align: center;
  }
  .hero {
  list-style: circle;
-   text-align: left;
+ text-align: left;
+ }
+ .header3 {
+ text-align: center;
+ }
+ .umcolor1 {
+ color: #ffcc33;
+ }
+ .umcolor2 {
+ color: #7a0019;
+ }
+ .ttucolor1 {
+ color: #4F2984;
+ }
+ .ttucolor2 {
+ color: #FFDD00;
  }
