@@ -5,7 +5,7 @@ body {
   height: 100%;
 }
 header {
-text-align: left;
+text-align: center;
 font-family: Copperplate, Palatino;
 color: black;
 }
@@ -50,4 +50,5 @@ text-align: center;
  }
  .hero {
  list-style: circle;
+   text-align: left;
  }
