@@ -6,18 +6,48 @@ body {
 }
 header {
 text-align: left;
-font-family: Palatino, New Courier;
-color: #aa54bb;
+font-family: Copperplate, Palatino;
+color: black;
+}
+.header2 {
+text-align: center;
 }
 .container {
-  font-family: Copperplate, serif;
-  color: green;
+  font-family: Applegothic, serif;
+  color: #132c56;
  }
  p.job1 {
- text-align:left;
+ text-align:center;
  }
  .jobul1 {
  text-align: left;
- color: red;
+ color: #4f0a21;
  list-style: disc;
+ }
+  p.job2 {
+ text-align:center;
+ }
+ .jobul2 {
+ text-align: left;
+ color: #4f0a21;
+ list-style: disc;
+ }
+  p.job3 {
+ text-align:center;
+ }
+ .jobul3 {
+ text-align: left;
+ color: #4f0a21;
+ list-style: disc;
+ }
+  p.job4 {
+ text-align:center;
+ }
+ .jobul4 {
+ text-align: left;
+ color: #4f0a21;
+ list-style: disc;
+ }
+ .hero {
+ list-style: circle;
  }
