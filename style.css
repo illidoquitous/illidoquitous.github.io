@@ -67,3 +67,17 @@ text-align: center;
  .ttucolor2 {
  color: #FFDD00;
  }
+ .box1 {
+    background-color: grey;
+    width: 250x;
+    border: 25px solid antiquewhite;
+    padding: 25px;
+    margin: 25px;
+}
+.box2 {
+    background-color: antiquewhite;
+    width: 250x;
+    border: 25px solid black;
+    padding: 25px;
+    margin: 25px;
+}
